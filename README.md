@@ -1,7 +1,7 @@
 # 【AAAI 2026】SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining
 > SD-PSFNet: Sequential and Dynamic Point Spread Function Network for Image Deraining
 >
-> [Jiayu Wang](), [Haoyu Bian](), [Haoran Sun](), [Shaoning Zeng]()
+> [Jiayu Wang](), [Haoyu Bian](https://github.com/242666), [Haoran Sun](), [Shaoning Zeng]()
 >
 > University of Electronic Science and Technology of China
 >
