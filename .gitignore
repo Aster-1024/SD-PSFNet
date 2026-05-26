@@ -1,0 +1,17 @@
+# 忽略权重文件 (避免仓库过大)
+#*.pth
+#*.pt
+#weights/*
+#!weights/README.md
+
+# 忽略数据集
+datasets/*
+!datasets/readme.txt
+
+# 忽略 Python 缓存
+__pycache__/
+*.pyc
+
+# 忽略日志和系统文件
+logs/
+.DS_Store
