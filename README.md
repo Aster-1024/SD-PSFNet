@@ -19,7 +19,7 @@
   <sup>2</sup>Yangtze Delta Region Institute (Huzhou), University of Electronic Science and Technology of China, Huzhou, China<br>
   <sup>3</sup>School of Computer Science and Engineering, University of Electronic Science and Technology of China, Chengdu, China
 </p>
-**✨ Highlights**
+✨ Highlights
 
 SD-PSFNet introduces a physics-aware deraining framework that models rain streak degradation with learned Point Spread Function (PSF) mechanisms. The network progressively restores rain-free images through cascaded stages and adaptive gated feature fusion.
 
